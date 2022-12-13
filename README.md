@@ -1,1 +1,1 @@
-https://Airhack64.github.io/rsschool-cv/
+https://airhack64.github.io/rsschool-cv
